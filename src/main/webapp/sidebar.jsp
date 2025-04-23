@@ -10,7 +10,7 @@
         TechStock
     </div>
     <nav class="flex-1 p-4 space-y-2">
-        <a href="index.html" class="flex items-center space-x-2 p-2 rounded hover:bg-gray-700">
+        <a href="index.jsp" class="flex items-center space-x-2 p-2 rounded hover:bg-gray-700">
             <i class="fas fa-tachometer-alt"></i>
             <span>Dashboard</span>
         </a>
